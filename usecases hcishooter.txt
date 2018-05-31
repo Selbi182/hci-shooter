@@ -1,0 +1,7 @@
+- teleporter ball
+- licht ding
+- werte anpassen -> evtl log
+- munitionsverbrauch nach werten 
+- partikeleffekte nach firerate, nicht nach gedrückt halten
+- labyrinthwelt
+- laser als instanz von world->projectiles
